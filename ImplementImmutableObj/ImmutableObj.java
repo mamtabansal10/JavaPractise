@@ -1,4 +1,3 @@
-package com.java.practise;
 
 public final class ImmutableObj {
 	
