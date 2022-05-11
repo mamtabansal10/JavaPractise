@@ -1,5 +1,3 @@
-package com.practise.exception;
-
 public class Test {
      int i;
 	public static void main(String[] args) {
@@ -18,5 +16,4 @@ public class Test {
 			System.out.println("inside finally");
 		}
 	}
-
 }
