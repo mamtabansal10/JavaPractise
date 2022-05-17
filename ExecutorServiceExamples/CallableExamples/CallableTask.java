@@ -1,5 +1,3 @@
-package com.callable.tasks;
-
 import java.util.concurrent.Callable;
 
 public class CallableTask implements Callable<String>{
