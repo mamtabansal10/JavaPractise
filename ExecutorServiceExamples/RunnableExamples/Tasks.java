@@ -1,4 +1,3 @@
-package com.executor.service;
 
 public class Tasks extends Thread {
 
